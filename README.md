@@ -31,17 +31,17 @@ Profil **delivery + produit**, orienté **pilotage par la data**. Je cadre, je p
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
-| **[echo](https://github.com/VincentG32/echo)** · [live ↗](https://echo-granouillit.vercel.app) | SaaS de feedback produit : centralisation, vote, priorisation, dashboard admin | Next.js 16 · TypeScript · Tailwind · Airtable · n8n · Vercel · Claude Code |
-| **[infra-ia-personnelle](https://github.com/VincentG32/infra-ia-personnelle)** | Infra d'agents IA auto-hébergés, gouvernée (« je pilote, l'IA code ») | Claude Code · n8n · Qdrant · Airtable · Markdown + Git |
-| **[solo-builder-ai](https://github.com/VincentG32/solo-builder-ai)** | Système multi-agents pour livrer seul, avec gates de validation humains | CrewAI · LangGraph · Playwright · Claude Code |
-| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA | Astro · TypeScript · n8n · Claude Code |
+| **[echo](https://github.com/VincentG32/echo)** · [live ↗](https://echo-granouillit.vercel.app) | SaaS de feedback produit : centralisation, vote, priorisation, dashboard admin | Next.js 16 · React 19 · TypeScript · Tailwind · Airtable · Auth JWT (bcrypt) · Upstash Redis · Resend · Sentry · Zod · Recharts · dnd-kit · Playwright · axe-core · n8n · Qdrant · Vercel · Claude Code |
+| **[infra-ia-personnelle](https://github.com/VincentG32/infra-ia-personnelle)** | Infra d'agents IA auto-hébergés, gouvernée (« je pilote, l'IA code ») | Claude Code · Hermes (agent auto-hébergé) · n8n · Qdrant · Airtable · Telegram · Docker · Markdown + Git |
+| **[solo-builder-ai](https://github.com/VincentG32/solo-builder-ai)** | Système multi-agents pour livrer seul, avec gates de validation humains | CrewAI · LangGraph · Python · Playwright · Bandit · Lighthouse · Claude Code |
+| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA | Astro · TypeScript · Chart.js · n8n (@n8n/chat) · Vercel · Claude Code |
 
 ## Stack
 
-**Produit / Front** : Next.js · TypeScript · Tailwind · Astro · Vercel
-**Data / Back** : Supabase · Postgres · Airtable · Qdrant
-**IA / Automatisation** : Claude Code · n8n · CrewAI · LangGraph · agents auto-hébergés
-**Qualité** : Playwright · axe-core (a11y CI) · gates de validation
+**Produit / Front** : Next.js · React · TypeScript · Tailwind · Astro · Vercel
+**Data / Back** : Supabase · Postgres · Airtable · Qdrant · Upstash Redis
+**IA / Automatisation** : Claude Code · n8n · CrewAI · LangGraph · Hermes (agent auto-hébergé) · Telegram
+**Qualité / Outils** : Playwright · axe-core (a11y CI) · Sentry · Zod · ESLint · Bandit · Lighthouse · Docker · Git
 
 ## Comment je travaille
 
