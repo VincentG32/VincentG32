@@ -32,15 +32,15 @@ Profil **delivery + produit**, orienté **pilotage par la data**. Je cadre, je p
 | Projet | Ce que c'est | Stack |
 |---|---|---|
 | **[echo](https://github.com/VincentG32/echo)** · [live ↗](https://echo-granouillit.vercel.app) | SaaS de feedback produit : centralisation, vote, priorisation, dashboard admin | Next.js 16 · React 19 · TypeScript · Tailwind · Vercel · Claude Code · Airtable · n8n · Qdrant · Zod · Auth JWT (bcrypt) · Playwright · axe-core · Sentry · Upstash Redis · Recharts · dnd-kit |
+| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA (RAG, triage, dossier patient) | Astro · TypeScript · Supabase (Postgres · pgvector · RLS) · Vercel · Claude Code · n8n · Anthropic Claude · Cohere · Chart.js |
 | **[infra-ia-personnelle](https://github.com/VincentG32/infra-ia-personnelle)** | Infra d'agents IA auto-hébergés, gouvernée (« je pilote, l'IA code ») | Claude Code · Hermes (agent auto-hébergé) · n8n · Qdrant · Docker · Airtable · Telegram · Markdown + Git |
 | **[solo-builder-ai](https://github.com/VincentG32/solo-builder-ai)** | Système multi-agents pour livrer seul, avec gates de validation humains | Claude Code · CrewAI · LangGraph · Playwright · Python · Bandit · Lighthouse |
-| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA | TypeScript · Astro · Vercel · Claude Code · n8n · Chart.js |
 
 ## Stack
 
 **Produit / Front** : Next.js · React · TypeScript · Tailwind · Astro · Vercel
-**Data / Back** : Supabase · Postgres · Airtable · Qdrant · Upstash Redis
-**IA / Automatisation** : Claude Code · n8n · CrewAI · LangGraph · Hermes (agent auto-hébergé) · Telegram
+**Data / Back** : Supabase · PostgreSQL · pgvector · Airtable · Qdrant · Upstash Redis
+**IA / Automatisation** : Claude Code · n8n · Anthropic Claude · Cohere · CrewAI · LangGraph · Hermes (agent auto-hébergé)
 **Qualité / Outils** : Playwright · axe-core (a11y CI) · Sentry · Zod · ESLint · Bandit · Lighthouse · Docker · Git
 
 ## Comment je travaille
