@@ -3,7 +3,7 @@
 # Vincent Granouillit
 ### Delivery Manager × Product Builder IA
 
-**Je pilote des projets et je fais livrer, augmenté par l'IA.**
+**Je pilote et livre des projets augmenté par l'IA.**
 _« Je pilote, l'IA code. »_
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
