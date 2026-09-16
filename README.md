@@ -9,9 +9,9 @@ _« Je pilote, l'IA code. »_
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
 </div>
@@ -31,10 +31,10 @@ Profil **delivery + produit**, orienté **pilotage par la data**. Je cadre, je p
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
-| **[echo](https://github.com/VincentG32/echo)** · [live ↗](https://echo-granouillit.vercel.app) | SaaS de feedback produit : centralisation, vote, priorisation, dashboard admin | Next.js 16 · React 19 · TypeScript · Tailwind · Airtable · Auth JWT (bcrypt) · Upstash Redis · Resend · Sentry · Zod · Recharts · dnd-kit · Playwright · axe-core · n8n · Qdrant · Vercel · Claude Code |
-| **[infra-ia-personnelle](https://github.com/VincentG32/infra-ia-personnelle)** | Infra d'agents IA auto-hébergés, gouvernée (« je pilote, l'IA code ») | Claude Code · Hermes (agent auto-hébergé) · n8n · Qdrant · Airtable · Telegram · Docker · Markdown + Git |
-| **[solo-builder-ai](https://github.com/VincentG32/solo-builder-ai)** | Système multi-agents pour livrer seul, avec gates de validation humains | CrewAI · LangGraph · Python · Playwright · Bandit · Lighthouse · Claude Code |
-| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA | Astro · TypeScript · Chart.js · n8n (@n8n/chat) · Vercel · Claude Code |
+| **[echo](https://github.com/VincentG32/echo)** · [live ↗](https://echo-granouillit.vercel.app) | SaaS de feedback produit : centralisation, vote, priorisation, dashboard admin | Next.js 16 · React 19 · TypeScript · Tailwind · Vercel · Claude Code · Airtable · n8n · Qdrant · Zod · Auth JWT (bcrypt) · Playwright · axe-core · Sentry · Upstash Redis · Recharts · dnd-kit |
+| **[infra-ia-personnelle](https://github.com/VincentG32/infra-ia-personnelle)** | Infra d'agents IA auto-hébergés, gouvernée (« je pilote, l'IA code ») | Claude Code · Hermes (agent auto-hébergé) · n8n · Qdrant · Docker · Airtable · Telegram · Markdown + Git |
+| **[solo-builder-ai](https://github.com/VincentG32/solo-builder-ai)** | Système multi-agents pour livrer seul, avec gates de validation humains | Claude Code · CrewAI · LangGraph · Playwright · Python · Bandit · Lighthouse |
+| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA | TypeScript · Astro · Vercel · Claude Code · n8n · Chart.js |
 
 ## Stack
 
