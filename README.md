@@ -31,16 +31,17 @@ Profil **delivery + produit**, orienté **pilotage par la data**. Je cadre, je p
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
-| **[echo](https://github.com/VincentG32/echo)** · [live ↗](https://echo-granouillit.vercel.app) | SaaS de feedback produit : centralisation, vote, priorisation, dashboard admin | Next.js 16 · TypeScript · Vercel |
-| **[infra-ia-personnelle](https://github.com/VincentG32/infra-ia-personnelle)** | Infra d'agents IA auto-hébergés, gouvernée (« je pilote, l'IA code ») | Agents · n8n · Markdown + Git |
-| **[solo-builder-ai](https://github.com/VincentG32/solo-builder-ai)** | Système multi-agents pour livrer seul, avec gates de validation humains | CrewAI · LangGraph |
-| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA | Astro · n8n |
+| **[echo](https://github.com/VincentG32/echo)** · [live ↗](https://echo-granouillit.vercel.app) | SaaS de feedback produit : centralisation, vote, priorisation, dashboard admin | Next.js 16 · TypeScript · Tailwind · Airtable · n8n · Vercel · Claude Code |
+| **[infra-ia-personnelle](https://github.com/VincentG32/infra-ia-personnelle)** | Infra d'agents IA auto-hébergés, gouvernée (« je pilote, l'IA code ») | Claude Code · n8n · Qdrant · Airtable · Markdown + Git |
+| **[solo-builder-ai](https://github.com/VincentG32/solo-builder-ai)** | Système multi-agents pour livrer seul, avec gates de validation humains | CrewAI · LangGraph · Playwright · Claude Code |
+| **[vetcare-plus](https://github.com/VincentG32/vetcare-plus)** | Vitrine + espace connecté + assistant IA | Astro · TypeScript · n8n · Claude Code |
 
 ## Stack
 
 **Produit / Front** : Next.js · TypeScript · Tailwind · Astro · Vercel
 **Data / Back** : Supabase · Postgres · Airtable · Qdrant
-**IA / Automatisation** : Claude Code · n8n · agents auto-hébergés
+**IA / Automatisation** : Claude Code · n8n · CrewAI · LangGraph · agents auto-hébergés
+**Qualité** : Playwright · axe-core (a11y CI) · gates de validation
 
 ## Comment je travaille
 
